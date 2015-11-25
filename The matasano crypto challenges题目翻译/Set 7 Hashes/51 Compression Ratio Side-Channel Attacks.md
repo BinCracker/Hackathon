@@ -1,4 +1,4 @@
-##Compression Ratio Side-Channel Attacks
+##压缩比边信道攻击
 互联网流量通常是压缩形式，以节省带宽。直到最近，这包括HTTPS头，以及响应的内容。  
 
 为什么这很重要？  
