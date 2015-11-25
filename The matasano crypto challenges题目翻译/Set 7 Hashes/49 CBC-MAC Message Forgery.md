@@ -1,4 +1,4 @@
-##CBC-MAC Message Forgery
+##CBC-MAC 消息伪造
 让我们来聊一聊 CBC-MAC  
 
 CBC-MAC 可以这样描述：
